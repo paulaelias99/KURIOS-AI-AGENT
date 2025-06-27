@@ -1,0 +1,627 @@
+[
+  {
+    "nombre": "Growth 101",
+    "duracion": "2 semanas; 5 horas en total",
+    "programa": [
+      {
+        "nombre": "Semana 1",
+        "modulos": [
+          {
+            "nombre": "Módulo 1: Introducción a Growth",
+            "contenido": [
+              "¿Qué es growth?",
+              "Cuándo implementar"
+            ]
+          },
+          {
+            "nombre": "Módulo 2: Framework de Growth",
+            "contenido": [
+              "North star metric",
+              "Growth levers y sublevers (aha moment)",
+              "Funnel"
+            ]
+          },
+          {
+            "nombre": "Módulo 3: Frameworks de Problem Solving y Priorización",
+            "contenido": []
+          },
+          {
+            "nombre": "Módulo 4: Introducción a Retention",
+            "contenido": [
+              "Etapas de Retention",
+              "Cómo mejorarla"
+            ]
+          },
+          {
+            "nombre": "Módulo 5: Introducción a Conversion",
+            "contenido": [
+              "Fricción",
+              "Fórmulas",
+              "Cómo mejorarla"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 2",
+        "modulos": [
+          {
+            "nombre": "Módulo 6: Introducción a Acquisition",
+            "contenido": [
+              "Cómo se genera",
+              "Framework de adquisición",
+              "Cómo mejorarla",
+              "Recap de teoría online",
+              "Solución y análisis de caso práctico (Uber): problemas y soluciones de retención, conversión y adquisición",
+              "Identificar la NSM, Growth Levers, Objetivos, pasos del Funnel de cliente y Growth Hacks para un caso de negocio",
+              "PayPal",
+              "HubSpot",
+              "NastyGal",
+              "Programa"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo",
+            "contenido": []
+          },
+          {
+            "nombre": "Proyecto de curso:",
+            "contenido": []
+          },
+          {
+            "nombre": "Case Studies Modelo de monetización:",
+            "contenido": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Growth Strategy",
+    "duracion": "5 semanas; 12.5 horas en total",
+    "programa": [
+      {
+        "nombre": "Semana 1",
+        "modulos": [
+          {
+            "nombre": "Módulo 1: Fundamentos de Growth",
+            "contenido": [
+              "Qué es Growth, cuándo utilizarlo y aplicarlo.",
+              "Growth Levers Framework:  Adquisición, Activación y Retención.",
+              "Growth Strategy Framework: NSM, Growth Levers, Growth Model, Expertimentación."
+            ]
+          },
+          {
+            "nombre": "Módulo 2: Engagement & Retención (I)",
+            "contenido": [
+              "Qué es Retención y porqué es importante",
+              "Cómo definir y medir la retención"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 2",
+        "modulos": [
+          {
+            "nombre": "Módulo 3: Engagement & Retención (II)",
+            "contenido": [
+              "Framework Inputs - Outputs",
+              "Introducción a Loops de Growth",
+              "Loops de Engagement: Orgánicos, fabricados y contextuales",
+              "Definición de caso de uso",
+              "Definición y discusión de Loops de Engagement"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 1",
+            "contenido": []
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 3",
+        "modulos": [
+          {
+            "nombre": "Módulo 4: Activación",
+            "contenido": [
+              "Cómo medir las 3 palancas de activación y cómo impactarla a través de: Formación de hábitos, Momento Aha, Setup",
+              "Tipos de flujos de Setup",
+              "Qué es la Resurrección de usuarios, tácticas y canales"
+            ]
+          },
+          {
+            "nombre": "Módulo 5: Unit Economics",
+            "contenido": [
+              "ARPU/ARPA, LTV, CAC, Payback Period"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 4",
+        "modulos": [
+          {
+            "nombre": "Módulo 6: Adquisición",
+            "contenido": [
+              "Modelo de los 4 fits: Market-Product-Channel-Model.",
+              "Los 5 Loops de Adquisición: Virales, de referidos, de contenido, pagados y de ventas",
+              "Definición de métricas de activación",
+              "Definición de Loops de Adquisición",
+              "Cálculo de unit economics"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 2",
+            "contenido": []
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 5",
+        "modulos": [
+          {
+            "nombre": "Módulo 7: Introducción a Monetización",
+            "contenido": [
+              "Introducción a Monetización",
+              "Impacto en el Growth Levers Framework"
+            ]
+          },
+          {
+            "nombre": "Módulo 8: Growth Strategy",
+            "contenido": [
+              "North Star Metric & Growth Levers.",
+              "Qué es un Growth Model.",
+              "Roadmap de Experimentación y su importancia",
+              "Desarrollo de Growth Model Cuantitativo (North Star Metric y Growth Levers)",
+              "Desarrollo de Growth Model Cualitativo",
+              "Programa"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 3",
+            "contenido": []
+          },
+          {
+            "nombre": "Proyecto de curso: Construir un modelo de Growth cualitativo y cuantitativo basado en un caso brindado por Kurios",
+            "contenido": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Digital Growth Marketing",
+    "duracion": "5 semanas; 18 horas en total",
+    "programa": [
+      {
+        "nombre": "Semana 1",
+        "modulos": [
+          {
+            "nombre": "Módulo 1: Fundamentos de Marketing Digital",
+            "contenido": [
+              "Objetivo: Explicar qué es el digital marketing para crear estrategias",
+              "que generen crecimiento en sus productos críticos.",
+              "¿Qué es el marketing digital?",
+              "La estrategia de marketing digital",
+              "Digital Growth Marketing and Goal Setting",
+              "Growth & goal setting",
+              "Revenue & goal setting",
+              "El funnel de marketing y los loops de crecimiento"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 2",
+        "modulos": [
+          {
+            "nombre": "Módulo 2: Contexto de la compañía y de la audiencia",
+            "contenido": [
+              "Objetivo: Evaluar las prioridades del negocio para informar las estrategias",
+              "de Digital Marketing",
+              "Prerrequisitos para el marketing digital. Product-Market Fit.",
+              "Propuesta de valor.",
+              "Análisis de competencia",
+              "El consumidor digital",
+              "Conocer al cliente. Jobs to be done. Personas. Customer Journey."
+            ]
+          },
+          {
+            "nombre": "Módulo 3: Growth & Customer Journey",
+            "contenido": [
+              "Objetivo: Definir el customer journey a lo largo de las etapas claves del",
+              "funnel y levers de growth: adquisición, activación y retención de usuarios.",
+              "Customer Journey & Growth",
+              "Adquisición & Digital Growth Marketing",
+              "5 niveles de conciencia (framework)",
+              "Activación de usuarios",
+              "CRO: Optimización de la tasa de conversión",
+              "Retención de clientes",
+              "[Sesión en vivo I: Crear mapa de customer journey; Diseñar loop de adquisición]"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 3",
+        "modulos": [
+          {
+            "nombre": "Módulo 4: Canales de Marketing Digital",
+            "contenido": [
+              "Objetivo: Seleccionar y priorizar el canal de marketing digital adecuado para el producto, según el estadio, los objetivos y los recursos disponibles.",
+              "Canales de marketing digital",
+              "Priorización de canales",
+              "Framework: Tipos de marketing según cliente",
+              "Framework: Actividades de marketing según la etapa del producto",
+              "Marketing y omnicanalidad",
+              "[Sesión en vivo II: Brief de campaña, priorización de canales, mensajes por canal]"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 4",
+        "modulos": [
+          {
+            "nombre": "Módulo 5: Ejecutar y evaluar la campaña",
+            "contenido": [
+              "Objetivo: Planificar, diseñar, ejecutar y evaluar una campaña de Marketing Digital.",
+              "¿Qué es una campaña?",
+              "El brief de la campaña",
+              "Escribir el mensaje",
+              "Crear la campaña",
+              "Preparar rastreo de data",
+              "Lanzamiento de la campaña",
+              "Evaluar los resultados",
+              "Compartir los resultados",
+              "Testeo de campañas",
+              "Optimización de campaña",
+              "[Sesión en vivo III: Programas de fidelización; Análisis de métricas de resultado]"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 5",
+        "modulos": [
+          {
+            "nombre": "Módulo 6: Liderazgo en Digital Growth Marketing",
+            "contenido": [
+              "Objetivo: Desarrollar habilidades de liderazgo y trabajo colaborativo para lograr crecimiento profesional en el ambiente del marketing digital",
+              "Stakeholder Management",
+              "Gestión de recursos. In-house y agencias.",
+              "Comunicar el valor de marketing",
+              "Trayectoria profesional de marketing digital",
+              "Programa"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Monetization Strategy",
+    "duracion": "5 semanas; 12.5 horas en total",
+    "programa": [
+      {
+        "nombre": "Semana 1",
+        "modulos": [
+          {
+            "nombre": "Módulo 1: Fundamentos",
+            "contenido": [
+              "Introducción a la Monetización y su importancia",
+              "Modelo de Negocio Vs. Modelo de Monetización",
+              "Modelos de Monetización populares e innovaciones",
+              "Qué es una estrategia de Monetización y cómo se compone"
+            ]
+          },
+          {
+            "nombre": "Módulo 2: Métrica de valor",
+            "contenido": [
+              "Qué es la métrica de valor",
+              "Cómo definir la métrica",
+              "Múltiples métricas de valor"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 2",
+        "modulos": [
+          {
+            "nombre": "Módulo 3: Precio",
+            "contenido": [
+              "Definición de buyer personas",
+              "Identificación y análisis de competidores",
+              "Identificación de costos y análisis financiero",
+              "Análisis de demanda",
+              "Estrategia comprensiva de fijación de precios",
+              "Ejercicio: Análisis de oportunidad",
+              "Ejercicio: Métricas de valor y precio",
+              "Ejercicio: Quantified Buyer Persona"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 1",
+            "contenido": []
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 3",
+        "modulos": [
+          {
+            "nombre": "Módulo 4: Packaging",
+            "contenido": [
+              "Packaging: Qué es",
+              "Estrategias de Packaging"
+            ]
+          },
+          {
+            "nombre": "Módulo 5:  Price Optimization",
+            "contenido": [
+              "Análisis incremental de Break-Even: Básico, costos fijos, costos",
+              "Ejercicio: Curva de Break Even",
+              "Ejercicio: Valor económico y Packaging",
+              "Ejercicio: Análisis financiero"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 2",
+            "contenido": []
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 4",
+        "modulos": [
+          {
+            "nombre": "Módulo 6: Momento de cobro",
+            "contenido": [
+              "Modelos de cobro: transaccional, suscripción, advertising",
+              "Flujo de cobro en suscripción"
+            ]
+          },
+          {
+            "nombre": "Módulo 7: Métricas de monetización",
+            "contenido": [
+              "Métricas output: de ingresos y de rentabilidad",
+              "Métricas input: Funnel de ventas"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 5",
+        "modulos": [
+          {
+            "nombre": "Módulo 8: Monetization Optimization",
+            "contenido": [
+              "Cómo arreglar leaky buckets",
+              "Upselling y Cross-selling",
+              "Ejercicio: Optimización de Monetización",
+              "Discusión: Retos en la optimización",
+              "Programa",
+              "Modulo 1: Introducción al diseño de experimentos",
+              "El poder de la experimentación",
+              "Experimentos Controlados Aleatorios",
+              "Esquema básico de un A/B Test",
+              "Framework: Proceso de Experimentación",
+              "Experimentación para Producto y Growth"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 3",
+            "contenido": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Experiment Design",
+    "duracion": "5 semanas; 12.5 horas en total",
+    "programa": [
+      {
+        "nombre": "Semana 1",
+        "modulos": []
+      },
+      {
+        "nombre": "Semana 2",
+        "modulos": [
+          {
+            "nombre": "Módulo 2: Estrategia de Experimentación",
+            "contenido": [
+              "Estrategia de Experimentación",
+              "Objetivos de negocio",
+              "Problemas y oportunidades",
+              "Customer Feedback y Métodos Cualitativos",
+              "Roadmap de experimentación",
+              "Definición de hipótesis",
+              "Priorización de hipótesis",
+              "Frameworks de Priorización",
+              "Roadmap de experimentación"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 3",
+        "modulos": [
+          {
+            "nombre": "Módulo 3: Fundamentos Estadísticos",
+            "contenido": [
+              "La distribución normal, desviación estándar y la hipótesis nula",
+              "El procedimiento de prueba de hipótesis",
+              "Intervalos de Confianza",
+              "Sample Size Benchmarks",
+              "Intervalo de confianza",
+              "Tamaño muestral"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 1",
+            "contenido": []
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 4",
+        "modulos": [
+          {
+            "nombre": "Módulo 4: Diseño experimental",
+            "contenido": [
+              "Tipos de Experimentos (A/B, A/B/n, Multivariados)",
+              "Esquema de métricas",
+              "Unidad de aleatorización",
+              "Parámetros de diseño",
+              "Tamaño de muestra, efecto mínimo detectable, duración, nivel de significancia, poder estadístico"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 5",
+        "modulos": [
+          {
+            "nombre": "Módulo 5: Implementación y Análisis de resultados",
+            "contenido": [
+              "Arquitectura de implementación (+instrumentación)",
+              "Análisis de Resultados",
+              "Segmentación",
+              "Framework de toma de decisiones (Decision Trees, Iteraciones, Ramping)",
+              "Errores comunes en interpretación de resultados (Errores Tipo 1 y 2)",
+              "Diseño experimental",
+              "Análisis de resultados",
+              "Ejercicios: Árbol de métricas, priorización de hipótesis y Roadmap de Experimentación para tu propio caso; Efecto Mínimo Detectable y Poder Estadístico",
+              "Programa"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 2",
+            "contenido": []
+          },
+          {
+            "nombre": "Aplicabilidad:",
+            "contenido": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Retention Strategy",
+    "duracion": "4 semanas; 12 horas en total",
+    "programa": [
+      {
+        "nombre": "Semana 1:",
+        "modulos": [
+          {
+            "nombre": "Módulo 1: Fundamentos del pensamiento estratégico",
+            "contenido": [
+              "Importancia de Retención y por qué enfocarse en eso",
+              "Definición de retención",
+              "Framework de Retención",
+              "Formas de medir retención (user retention y revenue retention)",
+              "Ciclo de vida de producto",
+              "Definición de estado de usuarios",
+              "Misión de la empresa como ancla"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 2:",
+        "modulos": [
+          {
+            "nombre": "Módulo 2: Cuadrante del Éxito",
+            "contenido": [
+              "Framework de Cuadrante del Éxito",
+              "Caso de uso",
+              "Proceso para entregar el beneficio",
+              "Mecanismo de utilidades",
+              "Proceso para capturar el pago",
+              "Plantilla Cuadrante del Éxito",
+              "Ejercicio: Definición de hipótesis de métrica",
+              "Ejercicio: Definición de proceso para entregar el beneficio"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 1",
+            "contenido": []
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 3:",
+        "modulos": [
+          {
+            "nombre": "Módulo 3: Retención",
+            "contenido": [
+              "Validación de la hipótesis de la métrica",
+              "Pasos para la validación",
+              "Herramientas usadas",
+              "Benchmarks de retención",
+              "Optimización de la retención"
+            ]
+          },
+          {
+            "nombre": "Módulo 4: Activación",
+            "contenido": [
+              "Activación vs Consumidores Activos",
+              "Proceso de la activación",
+              "Signup & Setup Moment",
+              "Activation Moment",
+              "Optimización de activación",
+              "Ejercicio: flujo de activación",
+              "Ejercicio: estrategias de activación"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 2",
+            "contenido": []
+          }
+        ]
+      },
+      {
+        "nombre": "Semana 4:",
+        "modulos": [
+          {
+            "nombre": "Módulo 5: Engagement",
+            "contenido": [
+              "Diferencia entre retención y engagement",
+              "Tipos de casos de uso",
+              "Identificación de casos de uso",
+              "Hábitos de uso y cómo medirlos",
+              "Optimización de engagement"
+            ]
+          },
+          {
+            "nombre": "Módulo 6: Resurrección",
+            "contenido": [
+              "Definición de resurrección",
+              "Usuarios dormidos",
+              "Acción según perfil",
+              "Recap tipos de casos de uso y ejercicio sobre casos de uso",
+              "Elementos del hábito de uso y estrategias de optimización",
+              "Ejercicios: Definición y validación de métrica de retención; Desarrollo de flujo de activación; Definición de diferentes casos de uso; Definir estrategias para optimizar retención"
+            ]
+          },
+          {
+            "nombre": "Sesión en vivo 3",
+            "contenido": []
+          },
+          {
+            "nombre": "Aplicabilidad:",
+            "contenido": []
+          },
+          {
+            "nombre": "Case Studies : NU",
+            "contenido": []
+          }
+        ]
+      }
+    ]
+  }
+]
