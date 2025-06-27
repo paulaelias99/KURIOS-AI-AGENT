@@ -2,6 +2,7 @@
   {
     "nombre": "Growth 101",
     "duracion": "2 semanas; 5 horas en total",
+    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": [
@@ -78,6 +79,7 @@
   {
     "nombre": "Growth Strategy",
     "duracion": "5 semanas; 12.5 horas en total",
+    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": [
@@ -85,7 +87,7 @@
             "nombre": "Módulo 1: Fundamentos de Growth",
             "contenido": [
               "Qué es Growth, cuándo utilizarlo y aplicarlo.",
-              "Growth Levers Framework:  Adquisición, Activación y Retención.",
+              "Growth Levers Framework:  Adquisición, Activación y Retención.",
               "Growth Strategy Framework: NSM, Growth Levers, Growth Model, Expertimentación."
             ]
           },
@@ -191,6 +193,7 @@
   {
     "nombre": "Digital Growth Marketing",
     "duracion": "5 semanas; 18 horas en total",
+    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": [
@@ -300,6 +303,7 @@
   {
     "nombre": "Monetization Strategy",
     "duracion": "5 semanas; 12.5 horas en total",
+    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": [
@@ -355,7 +359,7 @@
             ]
           },
           {
-            "nombre": "Módulo 5:  Price Optimization",
+            "nombre": "Módulo 5:  Price Optimization",
             "contenido": [
               "Análisis incremental de Break-Even: Básico, costos fijos, costos",
               "Ejercicio: Curva de Break Even",
@@ -418,6 +422,7 @@
   {
     "nombre": "Experiment Design",
     "duracion": "5 semanas; 12.5 horas en total",
+    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": []
@@ -508,6 +513,7 @@
   {
     "nombre": "Retention Strategy",
     "duracion": "4 semanas; 12 horas en total",
+    "programa": [
       {
         "nombre": "Semana 1:",
         "modulos": [
@@ -611,7 +617,7 @@
             "contenido": []
           },
           {
-            "nombre": "Case Studies : NU",
+            "nombre": "Case Studies : NU",
             "contenido": []
           }
         ]
@@ -619,3 +625,4 @@
     ]
   }
 ]
+
