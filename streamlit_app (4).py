@@ -20,7 +20,7 @@ def filtrar_modulos(cursos, pedido):
     return modulos_filtrados
 
 def generar_markdown(modulos):
-    md = "# Curso Personalizado
+    md = "# Curso Personalizado"
 
 "
     for i, m in enumerate(modulos, 1):
