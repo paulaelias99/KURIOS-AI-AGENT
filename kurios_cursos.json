@@ -2,7 +2,6 @@
   {
     "nombre": "Growth 101",
     "duracion": "2 semanas; 5 horas en total",
-    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": [
@@ -79,7 +78,6 @@
   {
     "nombre": "Growth Strategy",
     "duracion": "5 semanas; 12.5 horas en total",
-    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": [
@@ -193,7 +191,6 @@
   {
     "nombre": "Digital Growth Marketing",
     "duracion": "5 semanas; 18 horas en total",
-    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": [
@@ -303,7 +300,6 @@
   {
     "nombre": "Monetization Strategy",
     "duracion": "5 semanas; 12.5 horas en total",
-    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": [
@@ -422,7 +418,6 @@
   {
     "nombre": "Experiment Design",
     "duracion": "5 semanas; 12.5 horas en total",
-    "programa": [
       {
         "nombre": "Semana 1",
         "modulos": []
@@ -513,7 +508,6 @@
   {
     "nombre": "Retention Strategy",
     "duracion": "4 semanas; 12 horas en total",
-    "programa": [
       {
         "nombre": "Semana 1:",
         "modulos": [
