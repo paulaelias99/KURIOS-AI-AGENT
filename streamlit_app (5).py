@@ -60,4 +60,4 @@ if st.button("Generar Curso"):
         st.markdown(markdown_resultado)
         st.download_button("⬇️ Descargar como .md", markdown_resultado, file_name="curso_personalizado.md")
     else:
-        st.warning("No se encontraron módulos que coincidan con tu pedido.)
+        st.warning("No se encontraron módulos que coincidan con tu pedido.")
