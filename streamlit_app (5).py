@@ -41,7 +41,7 @@ def generar_markdown(modulos, semanas_max):
     md = "# Curso Personalizado\n\n"
     modulos_limitados = modulos[:semanas_max * 2] if semanas_max else modulos  # ~2 módulos por semana
     for i, m in enumerate(modulos_limitados, 1):
-        md += f"## Módulo {i}: {m['nombre']}\n"
+        md += f"## {m['nombre']}\n"
         for item in m.get("contenido", []):
             md += f"- {item}\n"
         md += "\n"
