@@ -15,18 +15,28 @@ def extraer_duracion(texto):
         return int(match.group(1))
     return None
 
-# Buscar módulos relevantes desde múltiples cursos según el pedido
 def buscar_modulos_relevantes(cursos, pedido):
     pedido = pedido.lower()
     modulos = []
 
     for curso in cursos:
-        for semana in curso["programa"]:
-            for modulo in semana["modulos"]:
-                nombre = modulo["nombre"].lower()
-                contenido_texto = " ".join(modulo.get("contenido", [])).lower()
-                if any(palabra in nombre or palabra in contenido_texto for palabra in pedido.split()):
+        nombre_curso = curso["nombre"].lower()
+
+        # Solo incluir cursos cuyo nombre completo esté mencionado en el pedido
+        if nombre_curso in pedido:
+            for semana in curso["programa"]:
+                for modulo in semana["modulos"]:
                     modulos.append(modulo)
+        else:
+            # Si no se menciona el curso explícitamente, aún revisamos si algún módulo
+            # tiene coincidencias por temas específicos como pricing, adquisición, etc.
+            for semana in curso["programa"]:
+                for modulo in semana["modulos"]:
+                    nombre = modulo["nombre"].lower()
+                    contenido_texto = " ".join(modulo.get("contenido", [])).lower()
+                    if any(palabra in nombre or palabra in contenido_texto for palabra in pedido.split()):
+                        modulos.append(modulo)
+
     return modulos
 
 def generar_markdown(modulos, semanas_max):
