@@ -19,23 +19,21 @@ def buscar_modulos_relevantes(cursos, pedido):
     pedido = pedido.lower()
     modulos = []
 
+    # Extraer nombres de cursos mencionados explícitamente
+    cursos_mencionados = []
+    for curso in cursos:
+        nombre_curso = curso["nombre"].lower()
+        if nombre_curso in pedido:
+            cursos_mencionados.append(nombre_curso)
+
     for curso in cursos:
         nombre_curso = curso["nombre"].lower()
 
-        # Solo incluir cursos cuyo nombre completo esté mencionado en el pedido
-        if nombre_curso in pedido:
+        if nombre_curso in cursos_mencionados:
+            # Si el curso fue mencionado explícitamente, incluimos todos los módulos
             for semana in curso["programa"]:
                 for modulo in semana["modulos"]:
                     modulos.append(modulo)
-        else:
-            # Si no se menciona el curso explícitamente, aún revisamos si algún módulo
-            # tiene coincidencias por temas específicos como pricing, adquisición, etc.
-            for semana in curso["programa"]:
-                for modulo in semana["modulos"]:
-                    nombre = modulo["nombre"].lower()
-                    contenido_texto = " ".join(modulo.get("contenido", [])).lower()
-                    if any(palabra in nombre or palabra in contenido_texto for palabra in pedido.split()):
-                        modulos.append(modulo)
 
     return modulos
 
