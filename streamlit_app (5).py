@@ -29,17 +29,16 @@ def buscar_modulos_relevantes(cursos, pedido):
                     modulos.append(modulo)
     return modulos
 
-# Generar markdown de los módulos seleccionados
 def generar_markdown(modulos, semanas_max):
-    md = "# Curso Personalizado\\n\\n"
+    md = "# Curso Personalizado\n\n"
     modulos_limitados = modulos[:semanas_max * 2] if semanas_max else modulos  # ~2 módulos por semana
     for i, m in enumerate(modulos_limitados, 1):
-        md += f"## Módulo {i}: {m['nombre']}\\n"
+        md += f"## Módulo {i}: {m['nombre']}\n"
         for item in m.get("contenido", []):
-            md += f"- {item}\\n"
-        md += "\\n"
+            md += f"- {item}\n"
+        md += "\n"
     if semanas_max and len(modulos) > len(modulos_limitados):
-        md += f"_(Se mostraron solo los primeros {len(modulos_limitados)} módulos para ajustarse a {semanas_max} semanas.)_\\n"
+        md += f"_(Se mostraron solo los primeros {len(modulos_limitados)} módulos para ajustarse a {semanas_max} semanas.)_\n"
     return md
 
 # Interfaz de usuario
